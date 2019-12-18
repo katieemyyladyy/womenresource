@@ -1,0 +1,64 @@
+body {background-color: #393939;}
+
+	h1 {font-size: 79px;
+	line-height: 1.08em;
+	text-align: left;
+	color: #191919;
+	font-family: 'Marvel', sans-serif;}
+
+	h2 {font-size: 28px;
+	line-height:20px;
+	text-align: left;
+	color: #191919;
+	font-family: 'Marvel', sans-serif;
+	font-style: italic;
+	padding: 5px;}
+
+	h3 {font-size: 14px;
+	line-height:20px;
+	text-align: center;
+	color: #191919;
+	font-family: 'Marvel', sans-serif;
+	font-style: italic;
+	padding: 5px;}
+
+	p {font-size: 24px;
+	color: #191919;
+	text-align: left;
+	font-family: 'Marvel', sans-serif;}
+
+	html {
+    position: relative;
+    min-height: 100%;}
+
+	body {
+    margin: 0 0 100px;
+    padding: 25px;}
+	
+
+		#main_Article {
+		border: 10px #008658;
+		border-style: ridge;}
+
+		.boxy {width: 830px;
+		margin: 25px;
+		margin-top: 10px;
+		text-align: left;
+		background-color: #FFFFFF;
+		padding:45px;
+		float: right;}
+
+		#graph {
+		border: 10px #008658;
+		border-style: groove;}
+
+		.foxy {width: 425px;
+			height: 675px;
+			margin-top: 10px;
+					text-align: left;
+		background-color: #FFFFFF;
+		padding:45px;
+		float: right;
+		position: fixed;
+		position: right;}
+	
